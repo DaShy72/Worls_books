@@ -172,3 +172,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# JetBrains IDE (PyCharm, IntelliJ, WebStorm и т.д.)
+.idea/
+
+# Python кеш-файлы и виртуальное окружение
+*.pyc
+*.pyo
+*.pyd
+
+
+# Файлы базы данных и другие временные файлы
+*.sqlite3
+
+
+
